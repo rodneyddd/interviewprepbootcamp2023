@@ -1,18 +1,18 @@
-# Technical Interview Prep Bootcamp Summer 2022
+# Technical Interview Prep Bootcamp Summer 2023
 
-Class Days and Class Times: Monday to Friday, 10:00 AM to 3:00 PM  
+Class Days and Class Times: Monday to Friday, 11:00 AM to 2:00 PM  
 
-Dates: June 6, 2022 (Monday) to June 30th, 2022 (Thursday)    
+Dates: May 30, 2023 to July 12th, 2023     
 
 Lead Instructor: Melissa Lynch 
 
 Email: lynch.melissat@gmail.com 
 
-TA: Adrian Mok
+TA: Georgina Woo 
 
-Email: ADRIAN.MOK15@myhunter.cuny.edu
+Email: GEORGINA.WOO30@myhunter.cuny.edu
 
-Slack Workspace: <https://interviewprep2022hq.slack.com> 
+Slack Workspace: <http://interviewbootcamp2023.slack.com> 
 
 
 ### Repo Structure
